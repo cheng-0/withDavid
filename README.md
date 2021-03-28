@@ -2,7 +2,7 @@
 
 #### setup
 
-pip install flask
+pip install flask flask-cors
 
 #### run
 
